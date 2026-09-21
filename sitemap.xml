@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.dj-kurde.fr/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.dj-kurde.fr/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dj-kurde.fr/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.dj-kurde.fr/ar/"/>
+  </url>
+  <url>
+    <loc>https://www.dj-kurde.fr/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.dj-kurde.fr/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dj-kurde.fr/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.dj-kurde.fr/ar/"/>
+  </url>
+  <url>
+    <loc>https://www.dj-kurde.fr/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.dj-kurde.fr/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dj-kurde.fr/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.dj-kurde.fr/ar/"/>
+  </url>
+</urlset>
